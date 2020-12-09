@@ -1,0 +1,25 @@
+a {
+   color: #17a2b8;
+}
+
+a:hover {
+   color: black;
+}
+
+caption {
+   font-style: italic;
+}
+
+td.reserve {
+   background-color: #ffd1dc;
+   width:5%;
+}
+
+td.reserveSiLien {
+   background-color: white;
+   width:5%;
+}
+
+#formDonnerChambres {
+   width:5%;
+}
